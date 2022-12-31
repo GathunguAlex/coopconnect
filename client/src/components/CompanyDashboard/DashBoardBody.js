@@ -9,7 +9,8 @@ import RecentSurvey from './RecentSurvey';
 function DashBoardBody() {
     return (
         <>
-        <Profile/>
+            <Profile />
+            <Summary/>
         </>
     )
 
