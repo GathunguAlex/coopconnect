@@ -27,3 +27,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+node_modules/@babel node_modules/bootstrap node_modules/classnames node_modules/csstype node_modules/dequal node_modules/dom-helpers node_modules/invariant node_modules/js-tokens node_modules/loose-envify node_modules/object-assign node_modules/@popperjs node_modules/prop-types node_modules/prop-types-extra node_modules/@react-aria node_modules/react-bootstrap node_modules/react-is node_modules/react-lifecycles-compat node_modules/react-transition-group node_modules/regenerator-runtime node_modules/@restart node_modules/@swc node_modules/tslib node_modules/@types node_modules/uncontrollable node_modules/warning
+node_modules/@babel node_modules/bootstrap node_modules/classnames node_modules/csstype node_modules/dequal node_modules/dom-helpers node_modules/invariant node_modules/js-tokens node_modules/loose-envify node_modules/object-assign node_modules/@popperjs node_modules/prop-types node_modules/prop-types-extra node_modules/@react-aria node_modules/react-bootstrap node_modules/react-is node_modules/react-lifecycles-compat node_modules/react-transition-group node_modules/regenerator-runtime node_modules/@restart node_modules/@swc node_modules/tslib node_modules/@types node_modules/uncontrollable node_modules/warning
+node_modules
