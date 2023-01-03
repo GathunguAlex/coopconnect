@@ -6,7 +6,6 @@ function Profile() {
 
     return (
     <div id="profile" className="container">
-      <h1> Dashboard</h1>
 
       <div id="profile-content">
                 <div className="profile-info">

@@ -1,12 +1,4 @@
- #summary.container
-
- {
-     width: 90vw;
-     max-width: 57rem;
-     margin: auto;
-
- }
-
+ 
  #summary .circle
  {
 width:5rem;
@@ -34,12 +26,9 @@ margin-right: 1rem;
  #summary .summary-items
  {
     display:flex;
-    margin-top: 1rem;
+  
  }
- #summary h1
- {
-margin-top: 1rem;
- }
+ 
  #summary 
  {
         display: flex;
@@ -47,5 +36,5 @@ margin-top: 1rem;
             align-items: center;
             border: 0.1rem solid rgba(0, 0, 0, 0.4);
             padding: 1rem;
-
+            border-top: none;
  }
