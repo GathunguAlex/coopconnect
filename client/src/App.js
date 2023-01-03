@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import NavBar from "./components/CompanyDashboard/NavBar";
 import DashBoardBody from "./components/CompanyDashboard/DashBoardBody";
+import Footer from "./components/CompanyDashboard/Footer";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -14,8 +15,8 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <DashBoardBody/>
-  
+      <DashBoardBody />
+      <Footer/>
     </div>
   );
 }
