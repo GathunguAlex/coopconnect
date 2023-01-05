@@ -2,6 +2,8 @@ import React from "react";
 import "../../styles/RecentApplications.css"
 function RecentApplications() {
 
+  //to confirm if forms or tables same as recent survey
+
     return (
       <div id="recent-applications">
         <p>Recent Applications</p>

@@ -4,12 +4,8 @@ import '../../styles/CompanyDashboard/summary.css'
 
 function Summary() {
 
-    // const theItems = {
-    //     jobsPosted: 10,
-    //     surveyPosted: 13,
-    //     jobsApplied: 7,
-    //     surveysDone: 3
-    // }
+    // an array from backend is ideal
+    
     const theItems = [
         {itemName: 'Jobs Posted', itemValue: 10 },
         {itemName:'Surveys Posted',itemValue:13},
